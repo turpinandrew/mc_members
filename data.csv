@@ -1,0 +1,48 @@
+Name,Home,X,Y,Radius,Show,Theme1,Theme2,Theme3,Theme4,Theme5
+"Super1",Background,364,204,550,true,Co-located Partners,,,,
+"Super2",Background,1124,218,200,true,Others,,,,
+"Super3",Background,1542,206,330,true,The Faculty of Engineering & IT,,,,
+"Super4",Background,230,852,280,true,The Melbourne Entrepreneurial Centre,,,,
+"Super5",Background,842,836,230,true,Specialised Environments,,,,
+"Super6",Background,1484,862,630,true,Univeristy of Melbourne Interdisciplinary Research Groups,,,,
+"ClarkeHopkinsClarke",Yellow,124,74,25,true,Our Environment,Citizens & Government,Cities & Infrastructure,,
+"UST",Yellow,568,44,25,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"ANZSOG",Yellow,688,154,25,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"The Conversation",Yellow,534,168,25,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"MAXONIQ",Yellow,248,190,25,true,Health & Wellbeing,,,,
+"InEight",Yellow,320,74,25,true,Cities & Infrastructure,,,,
+"Apromore",Yellow,90,230,25,true,Our Future Economy,,,,
+"Atomos",Yellow,156,378,25,true,Our Future Economy,,,,
+"EMT Partners",Yellow,316,484,25,true,Our Future Economy,,,,
+"4DMedical",Yellow,530,460,25,true,Health & Wellbeing,,,,
+"Seer",Yellow,646,302,25,true,Health & Wellbeing,,,,
+"SANE Australia",Yellow,284,302,25,true,Citizens & Government,Health & Wellbeing,,,
+"Contemplative Studies\nCentre",Blue,1646,832,25,true,Citizens & Government,Health & Wellbeing,,,
+"Melbourne Energy\nInstitute",Blue,1668,402,25,true,Our Environment,Citizens & Government,Cities & Infrastructure,,
+"College for Climate\n& Energy",Blue,1536,728,25,true,Our Environment,Citizens & Government,Cities & Infrastructure,,
+"Melbourne Climate\nFutures",Blue,1142,852,25,true,Our Environment,Citizens & Government,Cities & Infrastructure,,
+"Complex Human\nData Hub",Blue,1814,810,25,true,Citizens & Government,Health & Wellbeing,,,
+"Australian Centre\nfor Accelerating\nDiabetes Innovation",Blue,1210,656,25,true,Health & Wellbeing,,,,
+"Centre for Data Science",Blue,1146,984,25,true,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure,
+"ARC Training Centre in Optimisation\nTechnologies, Integrated\nMethodologies and Applications",Blue,1730,594,25,true,Our Environment,Our Future Economy,Health & Wellbeing,Cities & Infrastructure,
+"Centre for Digital\nTransformation of Health",Blue,1758,946,25,true,Health & Wellbeing,,,,
+"Centre for AI\nand Digital Ethics",Blue,1416,432,25,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"ARC Training Centre\nin Cognitive Computing\nfor Medical Technologies",Blue,1520,928,25,true,Health & Wellbeing,,,,
+"Centre for Spatial Data\nInfrastructure and\nLand Administration",Grey,1732,82,25,true,Citizens & Government,Cities & Infrastructure,,,
+"Melbourne Defence\nEnterprise",Grey,1706,260,25,true,Citizens & Government,Cities & Infrastructure,,,
+"Centre for Disaster\nManagement & Public Safety",Grey,1482,76,25,true,Our Environment,Citizens & Government,Health & Wellbeing,Cities & Infrastructure,
+"Melbourne Data\nAnalytics Platform",Blue,1344,810,25,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"Telstra Creator\nSpace",Orange,1264,156,40,true,Our Environment,Our Future Economy,Health & Wellbeing,Cities & Infrastructure,
+"Science Gallery\nMelbourne",Teal,1086,294,40,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"Froebel Early\nLearning Centre",Green,1074,102,40,true,Our Environment,Health & Wellbeing,,,
+"Digital Health\nValiditron",Pink,836,722,25,true,Health & Wellbeing,,,,
+"D-Lab: Digital\nTwin Solutions",Pink,704,804,25,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"User Experience\nLab",Pink,812,900,25,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"Melbourne Accelerator\nProgram",Purple,316,728,25,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"Translating Research\nat Melbourne",Purple,192,972,25,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"Wade Institute of\nEntrereneurship",Purple,350,890,25,true,Our Environment,Citizens & Government,Our Future Economy,Health & Wellbeing,Cities & Infrastructure
+"Co-located\nPartners",Yellow,450,300,0,true,,,,,
+"The Faculty of\nEngineering & IT",Grey,1528,200,0,true,,,,,
+"The Melbourne\nEntrepreneurial\nCentre",Purple,108,850,0,true,,,,,
+"Specialised\nEnvironments",Pink,960,820,0,true,,,,,
+"Univeristy of Melbourne\nInterdisciplinary\nResearch Groups",Blue,1400,610,0,true,,,,,

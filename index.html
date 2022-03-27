@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+
+    <script src="http://code.jquery.com/jquery-3.3.1.slim.js" integrity="sha256-fNXJFIlca05BIO2Y5zh1xrShK3ME+/lYZ0j+ChxX2DA=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="jquery.csv.min.js"></script>
+    <script type="text/javascript" src="scaleable_canvas.js"></script>
+    <script type="text/javascript" src="map.js"></script>
+
+</head>
+
+<body onresize="draw_canvas();">
+    <div class="float-container">
+        <div class="float-left">
+            <div id="checkboxes"> </div>
+        </div>
+
+        <div class="float-right"> 
+            <canvas id="canvasImage"> </canvas>
+
+<!--
+            <div id="legend" class="legend"> 
+                <label id="label-clp" class="leg-lab">Co-located Partners</label>
+                <label id="label-mec" class="leg-lab">Melbourne Entrepreneurial Centre</label>
+                <label id="label-spc" class="leg-lab">Specialised Environments</label>
+                <label id="label-uom" class="leg-lab">Univeristy Interdisciplinary Research Groups</label>
+                <label id="label-feit"class="leg-lab">Faculty of Engineering & IT</label>
+            </div>
+-->
+        </div>
+    </div>
+</body>
+
+</html>
